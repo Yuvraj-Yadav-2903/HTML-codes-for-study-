@@ -220,3 +220,26 @@ Character Entities Example
 
 </body>
 </html>
+ List Tag Example
+ 
+<html>
+<body>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+    <p><b><i>Benefits of Playing Minecraft:</i></b></p>
+
+    <ol type="1">
+        <li>Enhances Creativity and Imagination</li>
+        <li>Improves Problem-Solving and Spatial Skills</li>
+        <li>Teaches Resource Management and Planning</li>
+        <li>Fosters Teamwork and Collaboration</li>
+        <li>Introduces Basic Coding and Circuit Logic (Redstone)</li>
+    </ol>
+
+</body>
+</html>
