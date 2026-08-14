@@ -48,3 +48,17 @@ Paragraph tag example
 
 </body>
 </html>
+BR Tag exmple
+
+<html>
+<body>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy <br>
+        Subject: Computer Applications
+    </p>
+
+</body>
+</html>
