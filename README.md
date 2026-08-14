@@ -99,7 +99,27 @@ Font Tag Example
 
 <html>
 <body>
+Basefont Tag Example
+    
+<html>
+<body>
 
+    <basefont face="Arial" size="4" color="green">
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+    <p>
+        <font color="red" size="6">
+            This paragraph overrides the base font settings!
+        </font>
+    </p>
+
+</body>
+</html>
     <font face="Arial" size="5" color="blue">
         My name is Yuvraj and I am in Class 10th B1.
     </font>
