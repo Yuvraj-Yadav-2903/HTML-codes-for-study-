@@ -180,7 +180,7 @@ Alink , Vlink Example
 
     <p>
         Check out my code repository: <br>
-        <a href="https://github.com/Yuvraj-Yadav-2903/HTML-codes-for-study-">
+        <a href="https://github.com/Yuvraj-Yadav-2903">
             Yuvraj's HTML Codes for Study 😎
         </a>
     </p>
