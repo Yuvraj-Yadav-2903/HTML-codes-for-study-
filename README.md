@@ -139,3 +139,16 @@ Background Image Tag Example
 
 </body>
 </html>
+Background Colour Example 
+
+<html>
+<body bgcolor="lightblue">
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+</body>
+</html>
