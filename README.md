@@ -76,7 +76,7 @@ Bold,Italic,UNDERLINE TAG EXAMPLE
 
 </body>
 </html>
-Superscript and Script Tag example
+Superscript and Subscript Tag example
 
 <html>
 <body>
