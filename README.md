@@ -243,3 +243,74 @@ Character Entities Example
 
 </body>
 </html>
+Nested List Example
+
+<html>
+<body>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+    <p><b><i>Marvel Cinematic Universe (MCU) Characters Status:</i></b></p>
+
+    <ol type="1">
+        <li><b>Alive Characters</b>
+            <ul type="disc">
+                <li>Thor Odinson</li>
+                <li>Spider-Man (Peter Parker)</li>
+                <li>Doctor Strange (Stephen Strange)</li>
+                <li>Captain America (Sam Wilson)</li>
+                <li>Hulk (Bruce Banner)</li>
+                <li>Ant-Man (Scott Lang)</li>
+                <li>Star-Lord (Peter Quill)</li>
+                <li>Rocket Raccoon</li>
+                <li>Groot</li>
+                <li>Drax the Destroyer</li>
+                <li>Mantis</li>
+                <li>Nebula</li>
+                <li>Moon Knight (Marc Spector / Steven Grant)</li>
+                <li>Daredevil (Matt Murdock)</li>
+                <li>Venom (Eddie Brock)</li>
+                <li>Hawkeye (Clint Barton)</li>
+                <li>Winter Soldier (Bucky Barnes)</li>
+                <li>Wasp (Hope van Dyne)</li>
+                <li>Black Panther (Shuri)</li>
+                <li>Okoye</li>
+                <li>Wong</li>
+                <li>Pepper Potts (Rescue)</li>
+                <li>Valkyrie</li>
+                <li>Korg</li>
+                <li>Miek</li>
+                <li>M'Baku</li>
+                <li>Kraglin Obfonteri</li>
+                <li>Howard the Duck</li>
+                <li>Cassie Lang</li>
+                <li>Hank Pym</li>
+                <li>Janet van Dyne</li>
+                <li>Ayo</li>
+                <li>Harley Keener</li>
+                <li>Master Hamir</li>
+            </ul>
+        </li>
+        <li><b>Deceased Characters</b>
+            <ul type="disc">
+                <li>Iron Man (Tony Stark)</li>
+                <li>Black Widow (Natasha Romanoff)</li>
+                <li>Captain America (Steve Rogers)</li>
+                <li>Vision</li>
+                <li>Loki (Original Timeline)</li>
+                <li>Gamora (Original Timeline)</li>
+                <li>Yondu Udonta</li>
+                <li>T'Challa (Black Panther)</li>
+                <li>Quicksilver (Pietro Maximoff)</li>
+                <li>Ancient One</li>
+                <li>Heimdall</li>
+            </ul>
+        </li>
+    </ol>
+
+</body>
+</html>
