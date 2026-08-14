@@ -126,3 +126,16 @@ Basefont Tag Example
 
 </body>
 </html>
+Background Image Tag Example 
+
+<html>
+<body background="image.jpg">
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+</body>
+</html>
