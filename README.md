@@ -19,3 +19,32 @@ Html heading tags example
 
 </body>
 </html>
+Paragraph tag example 
+
+<html>
+<body>
+
+    <p>
+        My name is Yuvraj and I am in Class 10th B1. HTML is simple and easy to learn.
+    </p>
+
+    <p align="left">
+        This paragraph is aligned to the left side of the screen.
+    </p>
+
+    <p align="center">
+        This paragraph is aligned in the center.
+    </p>
+
+    <p align="right">
+        This paragraph is aligned to the right side.
+    </p>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        Subject: Computer Applications
+    </p>
+
+</body>
+</html>
