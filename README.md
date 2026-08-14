@@ -95,3 +95,14 @@ Superscript and Subscript Tag example
 
 </body>
 </html>
+Font Tag Example
+
+<html>
+<body>
+
+    <font face="Arial" size="5" color="blue">
+        My name is Yuvraj and I am in Class 10th B1.
+    </font>
+
+</body>
+</html>
