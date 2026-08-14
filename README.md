@@ -166,3 +166,24 @@ Pre Tag Example
 
 </body>
 </html>
+Alink , Vlink Example 
+
+
+<html>
+<body link="blue" alink="red" vlink="purple">
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+    <p>
+        Check out my code repository: <br>
+        <a href="https://github.com/Yuvraj-Yadav-2903/HTML-codes-for-study-">
+            Yuvraj's HTML Codes for Study 😎
+        </a>
+    </p>
+
+</body>
+</html>
