@@ -314,3 +314,37 @@ Nested List Example
 
 </body>
 </html>
+Definition List Example
+
+<html>
+<body>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10th B1 <br>
+        School: Suditi Global Academy
+    </p>
+
+    <p><b><i>Funeral Speeches and Last Words:</i></b></p>
+
+    <dl>
+        <dt><b>Iron Man (Tony Stark - Hologram Message)</b></dt>
+        <dd>
+            "Everybody wants a happy ending, right? But it doesn't always roll that way. 
+            Maybe this time it will. I'm hoping if you play this back... it's in celebration. 
+            I hope families are reunited. I hope we get it back, in one form or another... 
+            I love you three thousand."
+        </dd>
+
+        <br>
+
+        <dt><b>Venom (Symbiote's Farewell Speech)</b></dt>
+        <dd>
+            "We are not leaving you, Eddie. But the world is not ready for what we are. 
+            Together, we were Venom... and as long as you remember us, we are never truly gone. 
+            Bye-bye, Eddie."
+        </dd>
+    </dl>
+
+</body>
+</html>
