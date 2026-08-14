@@ -152,3 +152,17 @@ Background Colour Example
 
 </body>
 </html>
+Pre Tag Example 
+
+<html>
+<body>
+
+    <pre>
+        Student Name : Yuvraj
+        Class        : 10th B1
+        School       : Suditi Global Academy
+        Subject      : Computer Applications
+    </pre>
+
+</body>
+</html>
