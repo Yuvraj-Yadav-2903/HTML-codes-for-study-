@@ -62,3 +62,17 @@ BR Tag exmple
 
 </body>
 </html>
+Bold,Italic,UNDERLINE TAG EXAMPLE
+
+<html>
+<body>
+
+    <p>
+        Student Name: <b>Yuvraj</b> <br>
+        Class: <i>10th B1</i> <br>
+        School: <u>Suditi Global Academy</u> <br>
+        Subject: <b><i><u>Computer Applications</u></i></b>
+    </p>
+
+</body>
+</html>
