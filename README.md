@@ -76,3 +76,22 @@ Bold,Italic,UNDERLINE TAG EXAMPLE
 
 </body>
 </html>
+Superscript and Script Tag example
+
+<html>
+<body>
+
+    <p>
+        Chemical Formula of Water: H<sub>2</sub>O
+    </p>
+
+    <p>
+        Mathematical Equation: (a + b)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + 2ab
+    </p>
+
+    <p>
+        Student: Yuvraj (Class 10<sup>th</sup> B1)
+    </p>
+
+</body>
+</html>
