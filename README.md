@@ -201,3 +201,22 @@ Margin Tag Example
 
 </body>
 </html>
+Character Entities Example
+
+<html>
+<body>
+
+    <p>
+        Less Than Symbol: 5 &lt; 10 <br>
+        Greater Than Symbol: 10 &gt; 5 <br>
+        &amp;Minecraft&amp;
+    </p>
+
+    <p>
+        Student Name: Yuvraj <br>
+        Class: 10 &lt; 11 &gt; 9 <br>
+        School: Suditi Global &amp; Academy
+    </p>
+
+</body>
+</html>
